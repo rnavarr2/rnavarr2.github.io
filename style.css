@@ -1,13 +1,25 @@
 body {
     background-color: lightblue;
+     font-family: 'Libre Baskerville', serif;
   }
-  
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
+  color: #c685ff;
+}
+
+p {
+  line-height: 20 px;
+  text-align: center;
+  margin-left: 30 px;
+  padding-top: 20 px;
+}
   #my-id {
     color: white;
     text-align: center;
   }
-  
+
   .my-class {
-   font-family: 'Poppins', sans-serif;
    font-size: 20px;
+   font-family: 'Libre Baskerville', serif;
   }
